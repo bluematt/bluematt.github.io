@@ -1,3 +1,3 @@
 bluematt.github.io
 ==================
-Source for this site.
+Source for the site at http://bluematt.github.io
